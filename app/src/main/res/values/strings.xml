@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Video360</string>
+    <string name="confirm_video_snapshots">You have taken %1$s snapshots!\nIf it\'s OK, confirm?</string>
+</resources>
